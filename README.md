@@ -34,10 +34,8 @@ This Tableau dashboard provides a detailed, interactive view of key Human Resour
 ## 🛠 Tech Stack
 
 - **Tool**: Tableau Public  
-- **Data Processing**: [Add details if applicable, e.g., Excel, SQL, Python]
+- **Data Processing**:  Excel, SQL, Python
 - **Visualization Type**: Interactive dashboard with filters, bar charts, KPIs, and pie charts
 
 ---
-
-## 📁 Folder Structure
 
