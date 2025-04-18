@@ -1,6 +1,6 @@
 # 📊 HR Analytics Dashboard
 
-![HR Dashboard Screenshot](images/hr_dashboard_screenshot.png)
+![HR Dashboard Screenshot](HR-Analytics-Dashboard.png)
 
 This Tableau dashboard provides a detailed, interactive view of key Human Resources metrics. Designed for HR professionals and decision-makers, it offers insights into employee demographics, attrition trends, departmental performance, and workforce engagement.
 
